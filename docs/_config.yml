@@ -1,0 +1,6 @@
+# see https://github.com/topics/jekyll-theme
+#
+# sighingnow/jekyll-gitbook -- links dont work?
+# mmistakes/minimal-mistakes -- needs plugin
+remote_theme: pages-themes/cayman
+title: Docs
