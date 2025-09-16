@@ -2,4 +2,5 @@
 #
 # sighingnow/jekyll-gitbook -- links dont work?
 # mmistakes/minimal-mistakes -- needs plugin
-remote_theme: slate
+theme: cayman
+title: Docs
